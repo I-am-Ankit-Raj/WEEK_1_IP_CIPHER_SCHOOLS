@@ -1,0 +1,44 @@
+<!--exercise3-->
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title>Exercise3  </title>
+</head>
+<body>
+<h1> Sign up form </h1>
+<form>
+      <label for="Firstname">First Name </label>
+	   <input type="text" id=="Firstname" placeholder="First Name"><br>
+
+	   <label for="ls">Last Name </label>
+	   <input type="text" id="ls" placeholder=" Last Name"><br>
+
+	   <label for="mail"> Email </label>
+	   <input type="Email" id="mail" placeholder="Email" required><br>
+
+	   <label for="pwd">PASSWORD </label>
+	   <input type="password" id="pwd" placeholder="Password"><br>
+
+	   <h2> SELECT Gender </h2>
+	   <label for ="male">Male</label>
+	   <input type="radio" name="gender" id="male"><br>
+	   <label for ="female">Female</label>
+	   <input type="radio" name="gender"id="female"><br>
+	   <label for ="other">Other</label>
+	   <input type="radio" name="gender" id= "other"><br>
+
+	   <label for="country"> Country </label>
+	   <select name="country" id="country">
+	                      <option value="1">INDIA</option>
+						  <option value="2">USA</option>
+						  <option value="3">NEPAL</option>
+						  <option value="4">PAKISTAN</option><br>
+		<p> type here </p>
+	  <textarea name="" id="" cols="30" rows="10" placeholder="type here"></textarea>
+
+
+
+</form>
+</body>
+</html>
