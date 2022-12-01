@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title>Text formatting  </title>
+</head>
+<body>
+      <h1>HEADING</H1>
+	  <br>
+	      <p>As the advances in <b>technology</b> move forward with increasing speed,<strong> software engineers </strong>have become a vital resource for businesses today and are therefore in high demand! As such, you can expect a rewarding career if you know how to build, test, and deploy computer systems and applications.
+
+These training plans have been designed to give you a <i>comprehensive</i> understanding of programming<em> languages</em> and set you up with a <del>solid foundation</del> for moving into the role<sub> of </sub> software engineer.</P>
+<p>h<sub>2</sub>0</p>
+<p>2<sup>4</sup></p>
+</body>
+</html>
