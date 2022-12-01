@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title> HTML LISTS</title>
+</head>
+<body>
+        <ol type="I">  
+		    <li>ITEM2</li>
+			<li>ITEM3</li>
+			<li>ITEM4</li>
+			<li>ITEM5</li>
+			<li>ITEM6</li>
+		</ol>
+		 <ul style='list-style-type: circle;'>  
+		    <li>ITEM2</li>
+			<li>ITEM3</li>
+			<li>ITEM4</li>
+			<li>ITEM5</li>
+			<li>ITEM6</li>
+		</ul>
+		<dl>
+		    <dt>Guitar</dt>
+			<dd>ITS an string instrument</dd>
+			<dt> SITAR</dt>
+			<dd>Its a beautiful instrument</dd>
+		</dl>
+</body>
+</html>
