@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title> HTML Form </title>
+</head>
+<body>
+<h1> HTML Forms</h1>
+<form method="get">
+       <label for="username">Username:</label>
+	   <input type="text" id="username" placeholder="enter here" required>
+	   <br><br>
+	   <label for="pwd">Password:</label>
+	   <input type="password" id="pwd" required><br><br>
+	   <label for="email">E-Mail:</label>
+	   <input type="email" id="email" required>
+	   <p> Select your gender</p>
+	   <label for ="male">Male</label>
+	   <input type="radio" name="gender" id="male"><br>
+	   <label for ="female">Female</label>
+	   <input type="radio" name="gender"id="female"><br>
+	   <label for ="other">Other</label>
+	   <input type="radio" name="gender" id= "other"><br>
+
+	   <label for="age">select your age</label>
+	   <select name="age" id="age">
+	         <option value="5-10">5-10</option>
+			 <option value="11-21">11-21</option>
+			 <option value="21-50">21-50</option><br>
+	   <br><br>
+	   <br> <input type="submit"  value="submit">
+</form>
+</body>
+</html>
