@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title> more HTML elements </title>
+</head>
+<body>
+<form>
+      <p> comment here </p>
+	  <textarea name="" id="" cols="30" rows="10" placeholder="type here"></textarea>
+	  <br>
+	  pick color:<input type="color" name="" id=""><br>
+	  date: <input type="date" name="" id=""><br>
+	  <input type= "file" name="" id="">
+</form>
+</body>
+</html>
